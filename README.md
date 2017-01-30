@@ -1,5 +1,5 @@
 # DaFWEBKON
-## Beiträge zur Webkonferenz für Deutschlehrende
+## Beiträge von Christian Reuter zur Webkonferenz für Deutschlehrende
 
 http://dafwebkon.com/
 
